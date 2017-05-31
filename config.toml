@@ -23,3 +23,7 @@ Paginate = 4
     name = "Faq"
     weight = -100
     url = "/faq/"
+[[menu.main]]
+    name = "Schedule"
+    weight = -100
+    url = "/schedule/"
